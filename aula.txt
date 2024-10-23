@@ -1,0 +1,22 @@
+Tipos de Dados 
+
+Dados primitivos: 
+    Inteiros(int), textos(str), reais(float) e real(boolean)
+    Função type() para descobrir o tipo de uma váriavel
+Dado Atômico é o dado pelo dado 
+Dado Coletivo é uma coleção de dados
+
+Dados abstratos
+
+Listas Lineares:
+    Listas[10, 'ab'], Tuplas(a, b, c) e Dicionarios{'a':'ab', 'b':'ba'}
+    Isso existe em diversas outras linguagens
+    
+Pilhas:
+    Uma coleção de itens, com duas extremidades: BASE e TOPO
+    Os primeiros itens são inseridos na Base e Ultimos vão para o Topo, ex: ['aa', 'bb', 'cc'], 'aa' é a BASE e 'cc' é o TOPO
+
+Filas (Queues): 
+    Funciona estruturalmente como uma pilha, mas sua organização é feita de forma diferente,
+    os itens são inseridos ao final da pilha, mas, sua remoção é feita ao contrário, sendo,
+    o último item inserido, o ultimo a ser removido.
