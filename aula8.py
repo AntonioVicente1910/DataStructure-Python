@@ -17,7 +17,3 @@ def sumList(nums):
         return nums[0] + sumList(nums[1:])
     
 print(sumList(nums))
-
-print((1+(2+(4+(6 + 8)))))
-
-
